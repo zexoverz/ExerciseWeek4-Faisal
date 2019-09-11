@@ -6,7 +6,7 @@ function cariModus(arr) {
     var modus = 0;
     var angkaTerbanyak = 0;
     var lastArr = arr.length - 1;
-    console.log(arr);
+    // console.log(arr);
 
 
     if (arr[0] === arr[lastArr]) {

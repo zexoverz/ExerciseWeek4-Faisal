@@ -20,7 +20,7 @@ function digitPerkalianMinimum(angka) {
                 }
             }
         }
-        console.log(temp)
+        // console.log(temp)
 
     }
     return result;

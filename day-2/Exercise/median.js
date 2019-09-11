@@ -2,8 +2,8 @@ function cariMedian(arr) {
     arr.sort(function (a, b) {
         return a - b;
     });
-    console.log(arr);
-    console.log("===================");
+    // console.log(arr);
+    // console.log("===================");
     for (let i = 0; i < arr.length; i++) {
         var medianGanjil = Math.ceil(arr.length / 2);
         var medianGenap = arr.length / 2;

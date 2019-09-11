@@ -42,8 +42,6 @@ function countProfit(shoppers) {
                 result[j].totalProfit += object[j].harga * shoppers[i].amount;
                 result[j].leftOver = object[j].stock;
 
-
-
             }
         }
         // result.push(Temp);
